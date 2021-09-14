@@ -5,6 +5,6 @@ HTML
 Css
 Bootstrap
 
-Reactively
+Responsive
 
 
